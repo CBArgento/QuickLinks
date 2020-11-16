@@ -1,0 +1,29 @@
+﻿body{
+    
+
+}
+
+
+.divider {
+    padding-top: 95px;
+}
+
+.card {
+    box-shadow-hover: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 0px grey;
+    -webkit-transition: box-shadow .6s ease-out;
+    box-shadow: .8px .9px 3px grey;
+    
+}
+
+.card:hover {
+        box-shadow: 1px 8px 20px grey;
+        -webkit-transition: box-shadow .6s ease-in;
+}
+
+#images {
+    text-align: center;
+}
